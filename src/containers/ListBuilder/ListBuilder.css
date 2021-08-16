@@ -1,0 +1,10 @@
+.resultCards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.button {
+	justify-content: center;
+	text-align: center;
+}
