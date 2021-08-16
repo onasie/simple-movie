@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Cara menjalankan program
+1. Install Node.js pada terminal
+2. Install Npm pada terminal
+3. Git clone git ini pada terminal di direktori dituju
+4. Setelah git clone, ketik 'npm install' pada terminal
+5. Tunggu hingga selesai terinstall
+6. Ketik 'npm start' pada terminal
+7. Hasil dapat dilihat pada http://localhost:3000/
+8. Selamat memeriksa :)
